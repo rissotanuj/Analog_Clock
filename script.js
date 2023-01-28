@@ -1,4 +1,4 @@
-
+// Logic of our Clock App.
 
 setInterval(() => {
 
