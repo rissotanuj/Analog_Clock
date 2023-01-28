@@ -21,3 +21,4 @@ setInterval(() => {
 
 }, 1000);
    
+// Ending of our  JavaScript Logic
